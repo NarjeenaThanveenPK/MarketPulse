@@ -1,7 +1,7 @@
 <div align="center">
 
 # MarketPulse
-### E-commerce Product Analytics & Experimentation Platform
+## E-commerce Product Analytics & Experimentation Platform
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-Databricks-orange?logo=apachespark&logoColor=white)
