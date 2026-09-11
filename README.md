@@ -1,10 +1,25 @@
+<<<<<<< HEAD
+=======
+<div align="center">
+
+# MarketPulse
+## E-commerce Product Analytics & Experimentation Platform
+
+>>>>>>> b2d73e6782e2b4f0c31e1c5ede389dc2d2b1a5f1
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-Databricks-orange?logo=apachespark&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-S3-orange?logo=amazonaws&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+<<<<<<< HEAD
 # MarketPulse — E-commerce Product Analytics & Experimentation Platform
+=======
+</div>
+
+---
+
+>>>>>>> b2d73e6782e2b4f0c31e1c5ede389dc2d2b1a5f1
 
 ## Problem Statement
 
