@@ -9,6 +9,11 @@
 ![Power BI](https://img.shields.io/badge/Power%20BI-Dashboards-yellow?logo=powerbi&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+</div>
+
+---
+
+
 ## Problem Statement
 
 How can an e-commerce company use large-scale customer and transaction data to understand business performance, identify the factors affecting conversion and retention, and determine whether product changes actually improve customer outcomes?
