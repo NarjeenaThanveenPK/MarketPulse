@@ -179,6 +179,21 @@ Random Forest selected as the primary model (ROC-AUC 0.710, Precision 0.705, Rec
 
 ---
 
+## Dashboard Previews
+
+### Executive Overview
+![Executive Overview](dashboards/executive_overview.png)
+
+### Customer & Product Analytics
+![Customer & Product Analytics](dashboards/customer_product_analytics.png)
+
+### Experimentation Results
+![Experimentation Results](dashboards/experimentation_results.png)
+
+*Full interactive file: [`MarketPulse_Dashboards.pbix`](dashboards/MarketPulse_Dashboards.pbix) (requires Power BI Desktop to open)*
+
+---
+
 ## How to Run
 
 1. Download the Olist dataset from Kaggle and place CSVs in `data/raw/`.
